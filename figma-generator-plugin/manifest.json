@@ -1,9 +1,0 @@
-{
-  "name": "Kopi Teras — Full UI/UX Generator (Lo-Fi, Hi-Fi & Final Scrollable PC)",
-  "id": "kopi-teras-figma-generator-2026",
-  "api": "1.0.0",
-  "main": "code.js",
-  "editorType": [
-    "figma"
-  ]
-}

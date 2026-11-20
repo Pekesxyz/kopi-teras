@@ -25,3 +25,6 @@ next-env.d.ts
 
 # uploaded files (bukti bayar & gambar menu)
 /storage/
+
+# local figma generator plugin
+/figma-generator-plugin/
